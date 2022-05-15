@@ -17,3 +17,6 @@ Steps:
 1) Sort all the edges from low weight to high
 2) Take the edge with the lowest weight and add it to the spanning tree. If adding the edge created a cycle, then reject this edge.
 3) Keep adding edges until we reach all vertices.
+
+
+Installation is straight forward. Two separate files used for Prim's and Kruskal's Algo. We just need to execute those files separately.
